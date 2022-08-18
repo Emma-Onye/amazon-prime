@@ -1,3 +1,3 @@
-# cloudfront to cache the movies content
+# changing as per new development
 
-# origin ---> s3 bucket
+#create s3 bucket
